@@ -212,3 +212,94 @@
 [03:14:31] [Server thread/INFO]: Unknown command. Type "/help" for help.
 [03:14:40] [Server thread/INFO]: Unknown command. Type "/help" for help.
 [03:15:02] [Async Chat Thread - #13/INFO]: [Not Secure] <oliveriomaita> toy de donde me mori
+[03:15:43] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[03:16:10] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[03:16:16] [Async Chat Thread - #15/INFO]: [Not Secure] <oliveriomaita> iker tp a piero a mi
+[03:16:18] [Async Chat Thread - #15/INFO]: [Not Secure] <oliveriomaita> ctm
+[03:16:20] [Async Chat Thread - #16/INFO]: [Not Secure] <oliveriomaita> iker
+[03:16:25] [User Authenticator #3/INFO]: UUID of player Enzyker is e9a8b9ca-aa12-321c-bf53-99c48e72000e
+[03:16:25] [Server thread/INFO]: Enzyker joined the game
+[03:16:25] [Server thread/INFO]: Enzyker[/127.42.96.242:33161] logged in with entity id 8906 at ([world]-165.29492677145277, 70.0, -643.0359799379795)
+[03:16:28] [Server thread/INFO]: Enzyker issued server command: /tp @e 100 64 200
+[03:16:28] [Server thread/INFO]: [Enzyker: Teleported 692 entities to 100.500000, 64.000000, 200.500000]
+[03:16:28] [Server thread/INFO]: oliveriomaita has made the advancement [Stone Age]
+[03:16:30] [Server thread/INFO]: Zeiden was slain by Zombie
+[03:16:32] [Server thread/INFO]: oliveriomaita was blown up by Creeper
+[03:16:32] [Server thread/INFO]: Enzyker was slain by Zombie
+[03:16:34] [Server thread/INFO]: alankchero was slain by Spider
+[03:16:43] [Async Chat Thread - #15/INFO]: [Not Secure] <oliveriomaita> mi casa ctm
+[03:16:47] [Async Chat Thread - #16/INFO]: [Not Secure] <oliveriomaita> hjdp
+[03:17:24] [Server thread/INFO]: oliveriomaita was slain by alankchero
+[03:17:36] [Server thread/INFO]: Enzyker issued server command: /tp @e 100 64 200
+[03:17:36] [Server thread/INFO]: [Enzyker: Teleported 319 entities to 100.500000, 64.000000, 200.500000]
+[03:17:36] [Server thread/INFO]: oliveriomaita has made the advancement [Getting an Upgrade]
+[03:17:36] [Server thread/INFO]: oliveriomaita has made the advancement [Isn't It Iron Pick]
+[03:17:38] [Server thread/INFO]: Enzyker was blown up by Creeper
+[03:17:39] [Server thread/INFO]: oliveriomaita has made the advancement [Monster Hunter]
+[03:17:43] [Server thread/INFO]: Enzyker issued server command: /tp @e 100 64 200
+[03:17:43] [Server thread/INFO]: [Enzyker: Teleported 364 entities to 100.500000, 64.000000, 200.500000]
+[03:17:43] [Server thread/INFO]: Zeiden was slain by Piglin Brute
+[03:17:51] [Server thread/INFO]: Enzyker was blown up by Creeper
+[03:17:53] [Server thread/INFO]: Enzyker issued server command: /tp @e 100 64 200
+[03:17:53] [Server thread/INFO]: [Enzyker: Teleported 284 entities to 100.500000, 64.000000, 200.500000]
+[03:17:53] [Server thread/INFO]: alankchero was slain by Zombie
+[03:17:54] [Server thread/INFO]: oliveriomaita hit the ground too hard whilst trying to escape Zombie
+[03:18:08] [Async Chat Thread - #17/INFO]: [Not Secure] <oliveriomaita> IKER CAGADA
+[03:18:20] [Server thread/INFO]: Enzyker issued server command: /tp oliveriomaita Enzyker
+[03:18:20] [Server thread/INFO]: [Enzyker: Teleported oliveriomaita to Enzyker]
+[03:18:21] [Server thread/INFO]: alankchero was slain by Zombie
+[03:18:39] [Server thread/INFO]: oliveriomaita has made the advancement [Diamonds!]
+[03:18:39] [Server thread/INFO]: oliveriomaita has made the advancement [Acquire Hardware]
+[03:18:46] [Server thread/INFO]: Enzyker issued server command: /tp alankchero Enzyker
+[03:18:46] [Server thread/INFO]: [Enzyker: Teleported alankchero to Enzyker]
+[03:18:53] [Server thread/INFO]: Enzyker issued server command: /tp Zeiden Enzyker
+[03:18:53] [Server thread/INFO]: Attempt to teleport removed player Zeiden restricted
+[03:18:53] [Server thread/INFO]: [Enzyker: Teleported Zeiden to Enzyker]
+[03:19:15] [Server thread/INFO]: alankchero has made the advancement [Diamonds!]
+[03:19:18] [Server thread/INFO]: Enzyker has made the advancement [Acquire Hardware]
+[03:19:18] [Server thread/INFO]: oliveriomaita was slain by Zombie
+[03:19:25] [Async Chat Thread - #19/INFO]: [Not Secure] <oliveriomaita> IKER TPa
+[03:19:33] [Async Chat Thread - #20/INFO]: [Not Secure] <oliveriomaita> m mato mrd
+[03:19:36] [Async Chat Thread - #19/INFO]: [Not Secure] <oliveriomaita> me mataron
+[03:19:40] [Async Chat Thread - #21/INFO]: [Not Secure] <oliveriomaita> rctm
+[03:19:46] [Server thread/INFO]: Enzyker issued server command: /tp oliveriomaita Enzyker
+[03:19:46] [Server thread/INFO]: [Enzyker: Teleported oliveriomaita to Enzyker]
+[03:21:09] [Server thread/INFO]: oliveriomaita was slain by Zombie
+[03:21:37] [Server thread/INFO]: Enzyker issued server command: /tp oliveriomaita Enzyker
+[03:21:37] [Server thread/INFO]: [Enzyker: Teleported oliveriomaita to Enzyker]
+[03:22:12] [Server thread/INFO]: Enzyker issued server command: /damage oliveriomaita 10000000000 minecraft:explosion
+[03:22:12] [Server thread/INFO]: oliveriomaita blew up
+[03:22:12] [Server thread/INFO]: [Enzyker: Applied 1.0E10 damage to oliveriomaita]
+[03:22:32] [Async Chat Thread - #22/INFO]: [Not Secure] <oliveriomaita> tpame en piero
+[03:22:47] [Async Chat Thread - #23/INFO]: [Not Secure] <oliveriomaita> tp
+[03:22:49] [Async Chat Thread - #22/INFO]: [Not Secure] <oliveriomaita> mrd
+[03:22:50] [Server thread/INFO]: Enzyker was blown up by Creeper
+[03:23:01] [Server thread/INFO]: oliveriomaita was slain by Zombie
+[03:23:15] [Server thread/INFO]: Enzyker was slain by Zombie
+[03:23:22] [Server thread/INFO]: Enzyker issued server command: /tp Enzyker 100 64 200
+[03:23:22] [Server thread/INFO]: [Enzyker: Teleported Enzyker to 100.500000, 64.000000, 200.500000]
+[03:23:32] [Async Chat Thread - #23/INFO]: [Not Secure] <oliveriomaita> iker tp para agarrar mis cosas y volvr a mi caasa
+[03:23:35] [Async Chat Thread - #22/INFO]: [Not Secure] <oliveriomaita> pe porf
+[03:23:42] [Async Chat Thread - #23/INFO]: [Not Secure] <oliveriomaita> no seas malo
+[03:23:43] [Server thread/INFO]: Enzyker issued server command: /damage oliveriomaita 10000000000 minecraft:explosion
+[03:23:43] [Server thread/INFO]: oliveriomaita blew up
+[03:23:43] [Server thread/INFO]: [Enzyker: Applied 1.0E10 damage to oliveriomaita]
+[03:23:49] [Server thread/INFO]: Enzyker issued server command: /tp oliveriomaita Enzyker
+[03:23:49] [Server thread/INFO]: [Enzyker: Teleported oliveriomaita to Enzyker]
+[03:24:27] [Server thread/INFO]: Enzyker issued server command: /time set day
+[03:24:27] [Server thread/INFO]: [Enzyker: Set the time to 1000]
+[03:24:27] [Server thread/INFO]: alankchero burned to death
+[03:24:48] [Server thread/INFO]: Enzyker was slain by Zombie
+[03:24:48] [Server thread/INFO]: Enzyker issued server command: /tp @e 100 64 200
+[03:24:48] [Server thread/INFO]: [Enzyker: Teleported 332 entities to 100.500000, 64.000000, 200.500000]
+[03:24:50] [Server thread/INFO]: oliveriomaita was shot by Skeleton
+[03:24:52] [Server thread/INFO]: Enzyker issued server command: /tp Enzyker 100 64 200
+[03:24:52] [Server thread/INFO]: [Enzyker: Teleported Enzyker to 100.500000, 64.000000, 200.500000]
+[03:24:53] [Server thread/INFO]: Zeiden was blown up by Creeper
+[03:24:55] [Server thread/INFO]: Enzyker was shot by Skeleton
+[03:24:57] [Async Chat Thread - #24/INFO]: [Not Secure] <oliveriomaita> iker ccagada
+[03:24:58] [Server thread/INFO]: Enzyker issued server command: /tp Enzyker 100 64 200
+[03:24:58] [Server thread/INFO]: [Enzyker: Teleported Enzyker to 100.500000, 64.000000, 200.500000]
+[03:25:02] [Server thread/INFO]: Enzyker has made the advancement [Isn't It Iron Pick]
+[03:25:03] [Server thread/INFO]: Enzyker has made the advancement [Diamonds!]
+[03:25:19] [Server thread/INFO]: alankchero was slain by Enderman
