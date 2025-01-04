@@ -1177,3 +1177,61 @@
 [05:06:13] [Server thread/INFO]: [Enzyker: Removed 384 item(s) from player Enzyker]
 [05:06:21] [Server thread/INFO]: Enzyker issued server command: /give Enzyker minecraft:dead_fire_coral
 [05:06:21] [Server thread/INFO]: [Enzyker: Gave 1 [Dead Fire Coral] to Enzyker]
+[05:06:41] [Server thread/INFO]: Enzyker issued server command: /give Enzyker minecraft:firework_rocket
+[05:06:41] [Server thread/INFO]: [Enzyker: Gave 1 [Firework Rocket] to Enzyker]
+[05:06:52] [Async Chat Thread - #59/INFO]: [Not Secure] <oliveriomaita> pero el pollo sigue vivo
+[05:07:00] [Async Chat Thread - #58/INFO]: [Not Secure] <Ken_TRONIKO> calla oliverio
+[05:07:30] [Async Chat Thread - #59/INFO]: [Not Secure] <oliveriomaita> sumy perra
+[05:07:35] [Async Chat Thread - #58/INFO]: [Not Secure] <Ken_TRONIKO> is x2
+[05:08:17] [Async Chat Thread - #59/INFO]: [Not Secure] <oliveriomaita> oscar cuñao de iker
+[05:08:49] [Async Chat Thread - #58/INFO]: [Not Secure] <oliveriomaita> tamare me siento feliz mi primer piso echo vamos tomar
+[05:09:18] [Async Chat Thread - #59/INFO]: [Not Secure] <oliveriomaita> ha ha ha ha ha ha ha ha ha soy tu perra pipo
+[05:09:27] [Server thread/INFO]: Enzyker issued server command: /clear Enzyker
+[05:09:27] [Server thread/INFO]: [Enzyker: Removed 385 item(s) from player Enzyker]
+[05:09:43] [Async Chat Thread - #58/INFO]: [Not Secure] <Ken_TRONIKO> tia tu pipo esta hablando disparates
+[05:10:20] [Async Chat Thread - #59/INFO]: [Not Secure] <oliveriomaita> a lobo dile que suelde la puerta mrd
+[05:10:32] [Async Chat Thread - #58/INFO]: [Not Secure] <oliveriomaita> mierda
+[05:10:45] [Server thread/INFO]: Enzyker issued server command: /tp Zeiden
+[05:10:45] [Server thread/INFO]: [Enzyker: Teleported Enzyker to Zeiden]
+[05:10:52] [Async Chat Thread - #59/INFO]: [Not Secure] <oliveriomaita> deme una cama
+[05:10:56] [Server thread/INFO]: Zeiden fell from a high place
+[05:10:57] [Server thread/INFO]: Enzyker has made the advancement [Sweet Dreams]
+[05:11:01] [Server thread/INFO]: oliveriomaita has made the advancement [Sweet Dreams]
+[05:11:35] [Server thread/INFO]: Zeiden has made the advancement [Sweet Dreams]
+[05:11:35] [Server thread/INFO]: Ken_TRONIKO went off with a bang
+[05:11:35] [Server thread/INFO]: Zeiden went off with a bang
+[05:11:45] [Async Chat Thread - #58/INFO]: [Not Secure] <oliveriomaita> iker deme cartel pa ponr nombre de sus cuartos
+[05:11:52] [Server thread/INFO]: Enzyker issued server command: /time set day
+[05:11:52] [Server thread/INFO]: [Enzyker: Set the time to 1000]
+[05:11:53] [Server thread/INFO]: oliveriomaita went off with a bang
+[05:11:56] [Server thread/INFO]: Ken_TRONIKO went off with a bang
+[05:11:56] [Server thread/INFO]: Zeiden went off with a bang
+[05:12:01] [Server thread/INFO]: Enzyker issued server command: /clear @a
+[05:12:01] [Server thread/INFO]: [Enzyker: Removed 310 item(s) from 4 players]
+[05:12:05] [Server thread/INFO]: Enzyker issued server command: /tp @a
+[05:12:08] [Server thread/INFO]: Enzyker issued server command: /tp @a Enzyker
+[05:12:08] [Server thread/INFO]: [Enzyker: Teleported 4 entities to Enzyker]
+[05:14:42] [Server thread/INFO]: Enzyker issued server command: /clear oliveriomaita
+[05:14:42] [Server thread/INFO]: [Enzyker: Removed 5 item(s) from player oliveriomaita]
+[05:15:51] [Server thread/INFO]: Enzyker issued server command: /tp Ken_TRONIKO
+[05:15:51] [Server thread/INFO]: [Enzyker: Teleported Enzyker to Ken_TRONIKO]
+[05:15:58] [Server thread/INFO]: Enzyker issued server command: /tp Ken_TRONIKO Enzyker
+[05:15:58] [Server thread/INFO]: [Enzyker: Teleported Ken_TRONIKO to Enzyker]
+[05:16:01] [Server thread/INFO]: Enzyker issued server command: /tp Ken_TRONIKO Enzyker
+[05:16:01] [Server thread/INFO]: [Enzyker: Teleported Ken_TRONIKO to Enzyker]
+[05:16:05] [Async Chat Thread - #60/INFO]: [Not Secure] <oliveriomaita> ta,mare mi papa se sentiria avergonzado
+[05:16:10] [Server thread/INFO]: Enzyker issued server command: /tp Zeiden Enzyker
+[05:16:10] [Server thread/INFO]: [Enzyker: Teleported Zeiden to Enzyker]
+[05:16:23] [Server thread/INFO]: Enzyker issued server command: /tp Zeiden Enzyker
+[05:16:23] [Server thread/INFO]: [Enzyker: Teleported Zeiden to Enzyker]
+[05:16:23] [Server thread/INFO]: Enzyker issued server command: /tp Zeiden Enzyker
+[05:16:23] [Server thread/INFO]: [Enzyker: Teleported Zeiden to Enzyker]
+[05:16:25] [Server thread/INFO]: Enzyker issued server command: /tp Ken_TRONIKO Enzyker
+[05:16:25] [Server thread/INFO]: [Enzyker: Teleported Ken_TRONIKO to Enzyker]
+[05:16:27] [Server thread/INFO]: Enzyker issued server command: /tp Ken_TRONIKO Enzyker
+[05:16:27] [Server thread/INFO]: [Enzyker: Teleported Ken_TRONIKO to Enzyker]
+[05:16:32] [Server thread/INFO]: Enzyker issued server command: /tp Ken_TRONIKO Enzyker
+[05:16:32] [Server thread/INFO]: [Enzyker: Teleported Ken_TRONIKO to Enzyker]
+[05:16:34] [Server thread/INFO]: Enzyker issued server command: /tp Zeiden Enzyker
+[05:16:34] [Server thread/INFO]: [Enzyker: Teleported Zeiden to Enzyker]
+[05:16:36] [Server thread/INFO]: Zeiden was doomed to fall by Ken_TRONIKO
