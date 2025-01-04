@@ -388,3 +388,56 @@
 [03:35:09] [Server thread/INFO]: [Enzyker: Teleported alankchero to Enzyker]
 [03:35:11] [Async Chat Thread - #33/INFO]: [Not Secure] <oliveriomaita> pero
 [03:35:26] [Server thread/INFO]: oliveriomaita was slain by alankchero
+[03:35:35] [Server thread/INFO]: Enzyker issued server command: /tp Zeiden Enzyker
+[03:35:35] [Server thread/INFO]: [Enzyker: Teleported Zeiden to Enzyker]
+[03:35:44] [Server thread/INFO]: Enzyker issued server command: /tp oliveriomaita Enzyker
+[03:35:44] [Server thread/INFO]: [Enzyker: Teleported oliveriomaita to Enzyker]
+[03:36:11] [Async Chat Thread - #31/INFO]: [Not Secure] <oliveriomaita> de mi tambien desaparecio
+[03:36:25] [Async Chat Thread - #33/INFO]: [Not Secure] <oliveriomaita> no da
+[03:36:28] [Async Chat Thread - #31/INFO]: [Not Secure] <oliveriomaita> rctm
+[03:36:28] [Server thread/INFO]: Enzyker issued server command: /difficulty normal
+[03:36:28] [Server thread/INFO]: [Enzyker: The difficulty has been set to Normal]
+[03:36:38] [Server thread/INFO]: oliveriomaita was slain by alankchero
+[03:36:51] [Async Chat Thread - #33/INFO]: [Not Secure] <oliveriomaita> no da
+[03:36:54] [Async Chat Thread - #31/INFO]: [Not Secure] <oliveriomaita> rctm
+[03:36:55] [Server thread/INFO]: alankchero has made the advancement [Hot Stuff]
+[03:36:59] [Server thread/INFO]: alankchero has completed the challenge [Cover Me in Debris]
+[03:37:03] [Server thread/INFO]: Enzyker issued server command: /tp oliveriomaita Enzyker
+[03:37:03] [Server thread/INFO]: [Enzyker: Teleported oliveriomaita to Enzyker]
+[03:37:11] [Server thread/INFO]: oliveriomaita has completed the challenge [Cover Me in Debris]
+[03:37:15] [Server thread/INFO]: oliveriomaita has made the advancement [Hot Stuff]
+[03:37:20] [Server thread/INFO]: Zeiden burned to death
+[03:37:26] [Server thread/INFO]: Enzyker issued server command: /tp Zeiden Enzyker
+[03:37:26] [Server thread/INFO]: [Enzyker: Teleported Zeiden to Enzyker]
+[03:37:35] [Server thread/INFO]: Zeiden has completed the challenge [Cover Me in Debris]
+[03:37:40] [Server thread/INFO]: Zeiden has made the advancement [Hot Stuff]
+[03:37:56] [Async Chat Thread - #34/INFO]: [Not Secure] <oliveriomaita> ami tampoco
+[03:38:22] [Server thread/INFO]: Zeiden was slain by Piglin Brute
+[03:38:38] [Server thread/INFO]: Enzyker issued server command: /gamerule keepInventory true
+[03:38:38] [Server thread/INFO]: [Enzyker: Gamerule keepInventory is now set to: true]
+[03:38:48] [Server thread/INFO]: Enzyker issued server command: /tp Zeiden e
+[03:38:51] [Server thread/INFO]: Zeiden was slain by Piglin Brute
+[03:38:51] [Server thread/INFO]: Enzyker issued server command: /tp Zeiden Enzyker
+[03:38:51] [Server thread/INFO]: [Enzyker: Teleported Zeiden to Enzyker]
+[03:38:53] [Server thread/INFO]: Enzyker issued server command: /tp Zeiden Enzyker
+[03:38:53] [Server thread/INFO]: [Enzyker: Teleported Zeiden to Enzyker]
+[03:39:57] [Server thread/INFO]: Zeiden has made the advancement [Monster Hunter]
+[03:40:46] [Server thread/INFO]: Enzyker has made the advancement [Spooky Scary Skeleton]
+[03:40:57] [Server thread/INFO]: oliveriomaita has made the advancement [Withering Heights]
+[03:40:57] [Server thread/INFO]: Zeiden has made the advancement [Withering Heights]
+[03:40:57] [Server thread/INFO]: Enzyker has made the advancement [Withering Heights]
+[03:40:57] [Server thread/INFO]: alankchero has made the advancement [Withering Heights]
+[03:43:29] [Server thread/INFO]: Enzyker has made the advancement [Sneak 100]
+[03:44:31] [Server thread/INFO]: Enzyker issued server command: /summon minecraft:ender_dragon
+[03:44:31] [Server thread/INFO]: [Enzyker: Summoned new Ender Dragon]
+[03:44:48] [Server thread/INFO]: oliveriomaita was slain by Warden
+[03:44:52] [Server thread/INFO]: Enzyker issued server command: /difficulty peaceful
+[03:44:52] [Server thread/INFO]: [Enzyker: The difficulty has been set to Peaceful]
+[03:45:21] [Server thread/INFO]: Enzyker issued server command: /difficulty hard
+[03:45:21] [Server thread/INFO]: [Enzyker: The difficulty has been set to Hard]
+[03:45:25] [User Authenticator #4/INFO]: UUID of player Ken_TRONIKO is ca1a5a2d-e06f-37c7-9c04-251be2a9af64
+[03:45:25] [Server thread/INFO]: Ken_TRONIKO joined the game
+[03:45:25] [Server thread/INFO]: Ken_TRONIKO[/127.92.209.247:34807] logged in with entity id 20639 at ([world]168.5, 79.0, 126.5)
+[03:45:26] [Server thread/INFO]: oliveriomaita was slain by Warden
+[03:45:29] [Server thread/INFO]: Zeiden has reached the goal [Postmortal]
+[03:45:30] [Server thread/INFO]: Zeiden was slain by Warden

@@ -107,6 +107,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-01-04 03:36:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-01-04 03:17:43 +0000"
@@ -284,6 +290,12 @@
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2025-01-04 03:11:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_axe": "2025-01-04 03:38:51 +0000"
     },
     "done": true
   },
@@ -497,6 +509,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-01-04 03:39:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-01-04 03:00:36 +0000"
@@ -536,6 +554,12 @@
   "minecraft:recipes/decorations/black_carpet": {
     "criteria": {
       "has_black_wool": "2025-01-04 03:24:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_axe": "2025-01-04 03:38:51 +0000"
     },
     "done": true
   },
@@ -665,6 +689,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-01-04 03:36:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-01-04 03:39:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-01-04 03:39:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2025-01-04 03:00:13 +0000"
@@ -680,6 +722,12 @@
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2025-01-04 03:17:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-01-04 03:36:57 +0000"
     },
     "done": true
   },
@@ -752,6 +800,10 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-01-04 03:12:04 +0000",
+      "minecraft:vindicator": "2025-01-04 03:39:56 +0000",
+      "minecraft:evoker": "2025-01-04 03:40:17 +0000",
+      "minecraft:zombified_piglin": "2025-01-04 03:38:35 +0000",
+      "minecraft:vex": "2025-01-04 03:40:49 +0000",
       "minecraft:zombie": "2025-01-04 03:12:18 +0000"
     },
     "done": false
@@ -849,6 +901,12 @@
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-01-04 03:25:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-01-04 03:41:12 +0000"
     },
     "done": true
   },
@@ -988,6 +1046,12 @@
     },
     "done": true
   },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-01-04 03:40:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_brown_mushroom": "2025-01-04 03:17:36 +0000"
@@ -1000,7 +1064,8 @@
       "cooked_mutton": "2025-01-04 03:11:35 +0000",
       "sweet_berries": "2025-01-04 03:14:48 +0000",
       "beef": "2025-01-04 03:04:47 +0000",
-      "mutton": "2025-01-04 03:03:08 +0000"
+      "mutton": "2025-01-04 03:03:08 +0000",
+      "enchanted_golden_apple": "2025-01-04 03:37:34 +0000"
     },
     "done": false
   },
@@ -1178,6 +1243,12 @@
     },
     "done": true
   },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2025-01-04 03:36:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2025-01-04 03:11:06 +0000"
@@ -1193,6 +1264,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-01-04 02:56:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-01-04 03:36:56 +0000"
     },
     "done": true
   },
