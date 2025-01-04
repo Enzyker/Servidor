@@ -1148,3 +1148,32 @@
 [04:56:12] [Server thread/INFO]: Ken_TRONIKO was shot by a skull from Wither
 [04:56:16] [Server thread/INFO]: Ken_TRONIKO was shot by a skull from Wither
 [04:56:19] [Server thread/INFO]: Ken_TRONIKO was shot by a skull from Wither
+[04:56:22] [Server thread/INFO]: Ken_TRONIKO was shot by a skull from Wither
+[04:56:35] [Server thread/INFO]: Ken_TRONIKO was blown up by Wither
+[04:56:48] [Server thread/INFO]: Ken_TRONIKO withered away
+[04:56:53] [Server thread/INFO]: Enzyker issued server command: /kill @e
+[04:56:53] [Server thread/INFO]: Ken_TRONIKO was killed
+[04:56:53] [Server thread/INFO]: Zeiden was killed
+[04:56:53] [Server thread/INFO]: Enzyker was killed
+[04:56:53] [Server thread/INFO]: oliveriomaita was killed
+[04:56:53] [Server thread/INFO]: [Enzyker: Killed 266 entities]
+[04:57:13] [Server thread/INFO]: Enzyker issued server command: /worldborder set 20000000
+[04:57:13] [Server thread/INFO]: [Enzyker: Set the world border to 20000000.0 block(s) wide]
+[04:57:27] [Server thread/INFO]: Enzyker issued server command: /setworldspawn ~ ~ ~
+[04:57:27] [Server thread/INFO]: [Enzyker: Set the world spawn point to 44, 63, 3 [0.0]]
+[04:57:36] [Server thread/INFO]: Enzyker issued server command: /difficulty peaceful
+[04:57:36] [Server thread/INFO]: [Enzyker: The difficulty has been set to Peaceful]
+[04:57:39] [Server thread/INFO]: Zeiden was doomed to fall by oliveriomaita
+[04:57:42] [Server thread/INFO]: Enzyker issued server command: /time set day
+[04:57:42] [Server thread/INFO]: [Enzyker: Set the time to 1000]
+[05:04:28] [Async Chat Thread - #58/INFO]: [Not Secure] <oliveriomaita> que tapas el baño
+[05:05:03] [Async Chat Thread - #59/INFO]: [Not Secure] <oliveriomaita> vamos a vacear techo ya
+[05:05:57] [Server thread/INFO]: Enzyker issued server command: /give Enzyker minecraft:firework_star
+[05:05:57] [Server thread/INFO]: [Enzyker: Gave 1 [Firework Star] to Enzyker]
+[05:06:01] [Async Chat Thread - #58/INFO]: [Not Secure] <oliveriomaita> tronik vamos a vacear techo
+[05:06:04] [Server thread/INFO]: Enzyker issued server command: /give Enzyker minecraft:fire_coral
+[05:06:04] [Server thread/INFO]: [Enzyker: Gave 1 [Fire Coral] to Enzyker]
+[05:06:13] [Server thread/INFO]: Enzyker issued server command: /clear Enzyker
+[05:06:13] [Server thread/INFO]: [Enzyker: Removed 384 item(s) from player Enzyker]
+[05:06:21] [Server thread/INFO]: Enzyker issued server command: /give Enzyker minecraft:dead_fire_coral
+[05:06:21] [Server thread/INFO]: [Enzyker: Gave 1 [Dead Fire Coral] to Enzyker]
