@@ -1,0 +1,157 @@
+[02:54:55] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[02:54:57] [ServerMain/INFO]: Loaded 7 recipes
+[02:54:57] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[02:54:57] [Server thread/INFO]: Loading properties
+[02:54:57] [Server thread/INFO]: This server is running Paper version git-Paper-196 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: 773dd72)
+[02:54:58] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[02:54:58] [Server thread/INFO]: Using 4 threads for Netty based IO
+[02:54:58] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
+    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
+[02:54:58] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[02:54:58] [Server thread/INFO]: Default game type: SURVIVAL
+[02:54:58] [Server thread/INFO]: Generating keypair
+[02:54:59] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:54:59] [Server thread/INFO]: Using epoll channel type
+[02:54:59] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[02:54:59] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[02:54:59] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[02:54:59] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:54:59] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:54:59] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:54:59] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:54:59] [Server thread/INFO]: Preparing level "world"
+[02:54:59] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:55:00] [Server thread/INFO]: Time elapsed: 309 ms
+[02:55:00] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[02:55:00] [Server thread/INFO]: Time elapsed: 90 ms
+[02:55:00] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[02:55:00] [Server thread/INFO]: Time elapsed: 51 ms
+[02:55:00] [Server thread/INFO]: Running delayed init tasks
+[02:55:00] [Server thread/INFO]: Done (2.535s)! For help, type "help"
+[02:55:00] [Server thread/INFO]: Timings Reset
+[02:55:07] [User Authenticator #0/INFO]: UUID of player oliveriomaita is 03a31c4f-c887-3aa6-a34f-a726f4f08d28
+[02:55:13] [User Authenticator #0/INFO]: UUID of player alankchero is 42d95ccc-f848-3c44-9dda-2c681c26923a
+[02:55:17] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-196 (MC: 1.20.1) ---
+[02:55:17] [Paper Watchdog Thread/ERROR]: The server has not responded for 10 seconds! Creating thread dump
+[02:55:17] [Paper Watchdog Thread/ERROR]: ------------------------------
+[02:55:17] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[02:55:17] [Paper Watchdog Thread/ERROR]: [ChunkTaskScheduler] Chunk wait task info below: 
+[02:55:17] [Paper Watchdog Thread/ERROR]: [ChunkTaskScheduler] Chunk wait: [( -1,-1) in 'world']
+[02:55:17] [Paper Watchdog Thread/ERROR]: [ChunkTaskScheduler] Chunk holder: NewChunkHolder{world=world, chunkX=-1, chunkZ=-1, entityChunkFromDisk=false, lastChunkCompletion={chunk_class=net.minecraft.world.level.chunk.ProtoChunk,status=minecraft:initialize_light}, currentGenStatus=minecraft:initialize_light, requestedGenStatus=minecraft:full, generationTask=ChunkProgressionTask{class: io.papermc.paper.chunk.system.scheduling.ChunkLightTask, for world: world, chunk: (-1,-1), hashcode: 1972534034, priority: BLOCKING, status: minecraft:light, scheduled: true}, generationTaskStatus=minecraft:light, priority=BLOCKING, priorityLocked=false, neighbourRequestedPriority=IDLE, effective_priority=BLOCKING, oldTicketLevel=31, currentTicketLevel=31, totalNeighboursUsingThisChunk=254, fullNeighbourChunksLoadedBitset=262144, chunkStatusRaw=0, currentChunkStatus=INACCESSIBLE, pendingChunkStatus=INACCESSIBLE, is_unload_safe=ticket_level, killed=false}
+[02:55:17] [Paper Watchdog Thread/ERROR]: Handling packet for connection: net.minecraft.server.network.LoginListener@5d07ce85
+[02:55:17] [Paper Watchdog Thread/ERROR]: ------------------------------
+[02:55:17] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[02:55:17] [Paper Watchdog Thread/ERROR]: 	PID: 27 | Suspended: false | Native: false | State: TIMED_WAITING
+[02:55:17] [Paper Watchdog Thread/ERROR]: 	Stack:
+[02:55:17] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.13/jdk.internal.misc.Unsafe.park(Native Method)
+[02:55:17] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.13/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:252)
+[02:55:17] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.thread.BlockableEventLoop.waitForTasks(BlockableEventLoop.java:148)
+[02:55:17] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:137)
+[02:55:17] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerChunkCache.getChunk(ServerChunkCache.java:300)
+[02:55:17] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.Level.getChunk(Level.java:591)
+[02:55:17] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.Level.getChunk(Level.java:530)
+[02:55:17] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.PlayerRespawnLogic.getOverworldRespawnPos(PlayerRespawnLogic.java:18)
+[02:55:17] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerPlayer.fudgeSpawnLocation(ServerPlayer.java:487)
+[02:55:17] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.players.PlayerList.placeNewPlayer(PlayerList.java:251)
+[02:55:17] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.network.ServerLoginPacketListenerImpl.placeNewPlayer(ServerLoginPacketListenerImpl.java:202)
+[02:55:17] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.network.ServerLoginPacketListenerImpl.handleAcceptedLogin(ServerLoginPacketListenerImpl.java:183)
+[02:55:17] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.network.ServerLoginPacketListenerImpl.tick(ServerLoginPacketListenerImpl.java:85)
+[02:55:17] [Paper Watchdog Thread/ERROR]: 		net.minecraft.network.Connection.tick(Connection.java:602)
+[02:55:17] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.network.ServerConnectionListener.tick(ServerConnectionListener.java:234)
+[02:55:17] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1586)
+[02:55:17] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:446)
+[02:55:17] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1393)
+[02:55:17] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1170)
+[02:55:17] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317)
+[02:55:17] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda$4625/0x000076f0fca13038.run(Unknown Source)
+[02:55:17] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.13/java.lang.Thread.run(Thread.java:840)
+[02:55:17] [Paper Watchdog Thread/ERROR]: ------------------------------
+[02:55:17] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[02:55:17] [Paper Watchdog Thread/ERROR]: ------------------------------
+[02:55:18] [User Authenticator #0/INFO]: UUID of player alankchero is 42d95ccc-f848-3c44-9dda-2c681c26923a
+[02:55:22] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-196 (MC: 1.20.1) ---
+[02:55:22] [Paper Watchdog Thread/ERROR]: The server has not responded for 15 seconds! Creating thread dump
+[02:55:22] [Paper Watchdog Thread/ERROR]: ------------------------------
+[02:55:22] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[02:55:22] [Paper Watchdog Thread/ERROR]: [ChunkTaskScheduler] Chunk wait task info below: 
+[02:55:22] [Paper Watchdog Thread/ERROR]: [ChunkTaskScheduler] Chunk wait: [( -1,-1) in 'world']
+[02:55:22] [Paper Watchdog Thread/ERROR]: [ChunkTaskScheduler] Chunk holder: NewChunkHolder{world=world, chunkX=-1, chunkZ=-1, entityChunkFromDisk=false, lastChunkCompletion={chunk_class=net.minecraft.world.level.chunk.ProtoChunk,status=minecraft:initialize_light}, currentGenStatus=minecraft:initialize_light, requestedGenStatus=minecraft:full, generationTask=ChunkProgressionTask{class: io.papermc.paper.chunk.system.scheduling.ChunkLightTask, for world: world, chunk: (-1,-1), hashcode: 1972534034, priority: BLOCKING, status: minecraft:light, scheduled: true}, generationTaskStatus=minecraft:light, priority=BLOCKING, priorityLocked=false, neighbourRequestedPriority=IDLE, effective_priority=BLOCKING, oldTicketLevel=31, currentTicketLevel=31, totalNeighboursUsingThisChunk=252, fullNeighbourChunksLoadedBitset=262144, chunkStatusRaw=0, currentChunkStatus=INACCESSIBLE, pendingChunkStatus=INACCESSIBLE, is_unload_safe=ticket_level, killed=false}
+[02:55:22] [Paper Watchdog Thread/ERROR]: Handling packet for connection: net.minecraft.server.network.LoginListener@5d07ce85
+[02:55:22] [Paper Watchdog Thread/ERROR]: ------------------------------
+[02:55:22] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[02:55:22] [Paper Watchdog Thread/ERROR]: 	PID: 27 | Suspended: false | Native: false | State: TIMED_WAITING
+[02:55:22] [Paper Watchdog Thread/ERROR]: 	Stack:
+[02:55:22] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.13/jdk.internal.misc.Unsafe.park(Native Method)
+[02:55:22] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.13/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:252)
+[02:55:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.thread.BlockableEventLoop.waitForTasks(BlockableEventLoop.java:148)
+[02:55:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:137)
+[02:55:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerChunkCache.getChunk(ServerChunkCache.java:300)
+[02:55:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.Level.getChunk(Level.java:591)
+[02:55:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.Level.getChunk(Level.java:530)
+[02:55:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.PlayerRespawnLogic.getOverworldRespawnPos(PlayerRespawnLogic.java:18)
+[02:55:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerPlayer.fudgeSpawnLocation(ServerPlayer.java:487)
+[02:55:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.players.PlayerList.placeNewPlayer(PlayerList.java:251)
+[02:55:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.network.ServerLoginPacketListenerImpl.placeNewPlayer(ServerLoginPacketListenerImpl.java:202)
+[02:55:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.network.ServerLoginPacketListenerImpl.handleAcceptedLogin(ServerLoginPacketListenerImpl.java:183)
+[02:55:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.network.ServerLoginPacketListenerImpl.tick(ServerLoginPacketListenerImpl.java:85)
+[02:55:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.network.Connection.tick(Connection.java:602)
+[02:55:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.network.ServerConnectionListener.tick(ServerConnectionListener.java:234)
+[02:55:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1586)
+[02:55:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:446)
+[02:55:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1393)
+[02:55:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1170)
+[02:55:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317)
+[02:55:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda$4625/0x000076f0fca13038.run(Unknown Source)
+[02:55:22] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.13/java.lang.Thread.run(Thread.java:840)
+[02:55:22] [Paper Watchdog Thread/ERROR]: ------------------------------
+[02:55:22] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[02:55:22] [Paper Watchdog Thread/ERROR]: ------------------------------
+[02:55:24] [Server thread/INFO]: oliveriomaita joined the game
+[02:55:24] [Server thread/INFO]: oliveriomaita[/127.16.158.127:52725] logged in with entity id 11 at ([world]-5.5, 64.0, -5.5)
+[02:55:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17492ms or 349 ticks behind
+[02:55:24] [Server thread/INFO]: com.mojang.authlib.GameProfile@6e6d80a0[id=42d95ccc-f848-3c44-9dda-2c681c26923a,name=alankchero,properties={},legacy=false] (/127.209.37.113:59939) lost connection: Disconnected
+[02:55:24] [Server thread/INFO]: alankchero joined the game
+[02:55:24] [Server thread/INFO]: alankchero[/127.209.37.113:41821] logged in with entity id 19 at ([world]-3.5, 70.0, -5.5)
+[02:57:09] [Server thread/INFO]: oliveriomaita was slain by alankchero
+[02:57:11] [User Authenticator #1/INFO]: UUID of player Enzyker is e9a8b9ca-aa12-321c-bf53-99c48e72000e
+[02:57:11] [Server thread/INFO]: Enzyker joined the game
+[02:57:11] [Server thread/INFO]: Enzyker[/127.42.96.242:57935] logged in with entity id 794 at ([world]10.5, 68.0, -6.5)
+[02:57:34] [Server thread/INFO]: Made Enzyker a server operator
+[02:57:42] [Server thread/INFO]: alankchero drowned
+[02:57:52] [Async Chat Thread - #1/INFO]: [Not Secure] <oliveriomaita> no me da los blokes
+[02:57:56] [Server thread/WARN]: Enzyker was kicked due to keepalive timeout!
+[02:57:56] [Server thread/INFO]: Enzyker lost connection: Timed out
+[02:57:56] [Server thread/INFO]: Enzyker left the game
+[02:58:22] [User Authenticator #2/INFO]: UUID of player Enzyker is e9a8b9ca-aa12-321c-bf53-99c48e72000e
+[02:58:22] [Server thread/INFO]: Enzyker joined the game
+[02:58:22] [Server thread/INFO]: Enzyker[/127.42.96.242:50821] logged in with entity id 1009 at ([world]0.239345799223231, 71.0, -5.17932797942107)
+[02:58:27] [Server thread/INFO]: oliveriomaita was slain by alankchero
+[02:58:30] [Server thread/INFO]: alankchero was slain by oliveriomaita
+[02:59:13] [User Authenticator #2/INFO]: UUID of player Zeiden is 7bd106f2-e57d-3128-86d1-c71167ab8efa
+[02:59:13] [Server thread/INFO]: Zeiden joined the game
+[02:59:13] [Server thread/INFO]: Zeiden[/127.148.232.27:36295] logged in with entity id 1349 at ([world]-3.5, 68.0, 3.5)
+[02:59:30] [Server thread/INFO]: Enzyker has made the advancement [Stone Age]
+[02:59:39] [Server thread/INFO]: Enzyker has made the advancement [Getting an Upgrade]
+[03:00:13] [Server thread/INFO]: alankchero has made the advancement [Stone Age]
+[03:00:25] [Async Chat Thread - #2/INFO]: [Not Secure] <oliveriomaita> oliverio mayta soy yo pipo
+[03:00:36] [Server thread/INFO]: alankchero has made the advancement [Getting an Upgrade]
+[03:01:26] [Server thread/INFO]: Enzyker has made the advancement [Monster Hunter]
+[03:01:50] [Server thread/INFO]: Enzyker issued server command: /tp alankchero Zeiden
+[03:01:50] [Server thread/INFO]: [Enzyker: Teleported alankchero to Zeiden]
+[03:02:30] [Async Chat Thread - #4/INFO]: [Not Secure] <oliveriomaita> piero digamos con la casa
+[03:02:32] [Server thread/INFO]: oliveriomaita was slain by alankchero
+[03:02:55] [Async Chat Thread - #4/INFO]: [Not Secure] <oliveriomaita> iker
+[03:03:02] [Async Chat Thread - #5/INFO]: [Not Secure] <oliveriomaita> tepeaame
+[03:03:05] [Async Chat Thread - #4/INFO]: [Not Secure] <Enzyker> No
+[03:03:11] [Async Chat Thread - #5/INFO]: [Not Secure] <oliveriomaita> esa mrd me mato
+[03:03:16] [Async Chat Thread - #4/INFO]: [Not Secure] <oliveriomaita> ya pe
+[03:03:19] [Server thread/INFO]: Enzyker issued server command: /tp oliveriomaita Zeiden
+[03:03:19] [Server thread/INFO]: [Enzyker: Teleported oliveriomaita to Zeiden]
+[03:03:38] [Async Chat Thread - #5/INFO]: [Not Secure] <oliveriomaita> deme pico pe
+[03:04:07] [Server thread/INFO]: Enzyker issued server command: /give oliveriomaita minecraft:wooden_shovel
+[03:04:07] [Server thread/INFO]: [Enzyker: Gave 1 [Wooden Shovel] to oliveriomaita]
+[03:04:29] [Server thread/INFO]: Enzyker issued server command: /tp oliveriomaita Zeiden
+[03:04:29] [Server thread/INFO]: [Enzyker: Teleported oliveriomaita to Zeiden]
+[03:04:46] [Async Chat Thread - #6/INFO]: [Not Secure] <oliveriomaita> toy a tu lado ctm venga pipo
+[03:04:49] [Async Chat Thread - #7/INFO]: [Not Secure] <oliveriomaita> dice p
