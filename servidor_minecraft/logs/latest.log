@@ -1235,3 +1235,76 @@
 [05:16:34] [Server thread/INFO]: Enzyker issued server command: /tp Zeiden Enzyker
 [05:16:34] [Server thread/INFO]: [Enzyker: Teleported Zeiden to Enzyker]
 [05:16:36] [Server thread/INFO]: Zeiden was doomed to fall by Ken_TRONIKO
+[05:16:40] [Server thread/INFO]: Enzyker issued server command: /weather clear
+[05:16:40] [Server thread/INFO]: [Enzyker: Set the weather to clear]
+[05:16:43] [Server thread/INFO]: Enzyker issued server command: /weather clear
+[05:16:43] [Server thread/INFO]: [Enzyker: Set the weather to clear]
+[05:16:59] [Server thread/INFO]: Enzyker issued server command: /tp Zeiden Enzyker
+[05:16:59] [Server thread/INFO]: [Enzyker: Teleported Zeiden to Enzyker]
+[05:17:01] [Server thread/INFO]: Enzyker issued server command: /tp Ken_TRONIKO Enzyker
+[05:17:01] [Server thread/INFO]: [Enzyker: Teleported Ken_TRONIKO to Enzyker]
+[05:17:04] [Server thread/INFO]: Enzyker issued server command: /tp Ken_TRONIKO Enzyker
+[05:17:04] [Server thread/INFO]: [Enzyker: Teleported Ken_TRONIKO to Enzyker]
+[05:17:14] [Server thread/INFO]: Enzyker issued server command: /tp Zeiden Enzyker
+[05:17:14] [Server thread/INFO]: [Enzyker: Teleported Zeiden to Enzyker]
+[05:17:19] [Server thread/INFO]: Enzyker issued server command: /tp Zeiden Enzyker
+[05:17:19] [Server thread/INFO]: [Enzyker: Teleported Zeiden to Enzyker]
+[05:17:28] [Server thread/INFO]: Enzyker issued server command: /kill oliveriomaita
+[05:17:28] [Server thread/INFO]: oliveriomaita was killed
+[05:17:28] [Server thread/INFO]: [Enzyker: Killed oliveriomaita]
+[05:17:47] [Server thread/INFO]: Enzyker issued server command: /tp Ken_TRONIKO Enzyker
+[05:17:47] [Server thread/INFO]: [Enzyker: Teleported Ken_TRONIKO to Enzyker]
+[05:17:48] [Async Chat Thread - #62/INFO]: [Not Secure] <oliveriomaita> dejen hacer casa ctm
+[05:17:51] [Server thread/INFO]: Enzyker issued server command: /tp Ken_TRONIKO Enzyker
+[05:17:51] [Server thread/INFO]: [Enzyker: Teleported Ken_TRONIKO to Enzyker]
+[05:18:10] [Server thread/INFO]: Enzyker issued server command: /tp @a Enzyker
+[05:18:10] [Server thread/INFO]: [Enzyker: Teleported 4 entities to Enzyker]
+[05:18:28] [Server thread/INFO]: Enzyker issued server command: /give Ken_TRONIKO minecraft:netherite_sword
+[05:18:28] [Server thread/INFO]: [Enzyker: Gave 1 [Netherite Sword] to Ken_TRONIKO]
+[05:18:35] [Async Chat Thread - #63/INFO]: [Not Secure] <oliveriomaita> iker deme cartel pa poner su nombre
+[05:18:36] [Server thread/INFO]: oliveriomaita was slain by Ken_TRONIKO
+[05:19:08] [Server thread/INFO]: Enzyker issued server command: /give Ken_TRONIKO minecraft:tnt 64
+[05:19:08] [Server thread/INFO]: [Enzyker: Gave 64 [TNT] to Ken_TRONIKO]
+[05:19:17] [Server thread/INFO]: Enzyker issued server command: /give Ken_TRONIKO minecraft:flint_and_steel
+[05:19:17] [Server thread/INFO]: [Enzyker: Gave 1 [Flint and Steel] to Ken_TRONIKO]
+[05:19:24] [Server thread/INFO]: oliveriomaita was slain by Ken_TRONIKO
+[05:19:38] [Async Chat Thread - #64/INFO]: [Not Secure] <oliveriomaita> si joden la casa me largo
+[05:19:51] [Async Chat Thread - #65/INFO]: [Not Secure] <oliveriomaita> vallense ala mrd
+[05:20:07] [Async Chat Thread - #66/INFO]: [Not Secure] <oliveriomaita> tamare
+[05:20:38] [Async Chat Thread - #64/INFO]: [Not Secure] <oliveriomaita> ya oe
+[05:21:29] [Async Chat Thread - #66/INFO]: [Not Secure] <oliveriomaita> me voy no jodan {
+[05:21:51] [Async Chat Thread - #64/INFO]: [Not Secure] <Zeiden> wxd
+[05:22:00] [Async Chat Thread - #66/INFO]: [Not Secure] <Ken_TRONIKO> baje de pepa
+[05:22:05] [Async Chat Thread - #64/INFO]: [Not Secure] <oliveriomaita> chau ctm
+[05:22:46] [Server thread/WARN]: oliveriomaita moved wrongly!
+[05:23:33] [Server thread/INFO]: Enzyker issued server command: /difficulty hard
+[05:23:33] [Server thread/INFO]: [Enzyker: The difficulty has been set to Hard]
+[05:23:51] [Server thread/INFO]: Enzyker issued server command: /tp oliveriomaita Enzyker
+[05:23:51] [Server thread/INFO]: [Enzyker: Teleported oliveriomaita to Enzyker]
+[05:23:58] [Server thread/INFO]: Enzyker issued server command: /tp oliveriomaita Enzyker
+[05:23:58] [Server thread/INFO]: [Enzyker: Teleported oliveriomaita to Enzyker]
+[05:24:05] [Server thread/INFO]: oliveriomaita was blown up by Enzyker
+[05:24:15] [Server thread/INFO]: Enzyker issued server command: /tp @a Enzyker
+[05:24:15] [Server thread/INFO]: [Enzyker: Teleported 4 entities to Enzyker]
+[05:24:21] [Async Chat Thread - #67/INFO]: [Not Secure] <oliveriomaita> ww w
+[05:24:24] [Server thread/INFO]: Zeiden was blown up by Ken_TRONIKO
+[05:24:24] [Server thread/INFO]: oliveriomaita was blown up by Ken_TRONIKO
+[05:24:24] [Server thread/INFO]: Ken_TRONIKO was blown up by Ken_TRONIKO
+[05:24:45] [Async Chat Thread - #68/INFO]: [Not Secure] <oliveriomaita> oe ya mierda chau
+[05:24:54] [Async Chat Thread - #67/INFO]: [Not Secure] <Ken_TRONIKO> sin resentirse mrd
+[05:24:56] [Server thread/INFO]: Enzyker issued server command: /tp @a Enzyker
+[05:24:56] [Server thread/INFO]: [Enzyker: Teleported 4 entities to Enzyker]
+[05:25:00] [Async Chat Thread - #68/INFO]: [Not Secure] <Ken_TRONIKO> hoy es prueba nomazzz
+[05:25:07] [Async Chat Thread - #67/INFO]: [Not Secure] <Ken_TRONIKO> mañana arranca la real
+[05:25:10] [Server thread/INFO]: oliveriomaita was blown up by Enzyker
+[05:25:10] [Server thread/INFO]: Ken_TRONIKO was blown up by Enzyker
+[05:25:10] [Server thread/INFO]: Zeiden was blown up by Enzyker
+[05:25:37] [Server thread/INFO]: Enzyker issued server command: /tp @a Enzyker
+[05:25:37] [Server thread/INFO]: [Enzyker: Teleported 4 entities to Enzyker]
+[05:25:48] [Server thread/INFO]: Zeiden was blown up by Enzyker
+[05:25:48] [Server thread/INFO]: Ken_TRONIKO was blown up by Enzyker
+[05:25:48] [Server thread/INFO]: oliveriomaita was blown up by Enzyker
+[05:26:18] [Server thread/INFO]: Enzyker issued server command: /tp 0 100 0
+[05:26:18] [Server thread/INFO]: [Enzyker: Teleported Enzyker to 0.500000, 100.000000, 0.500000]
+[05:26:33] [Server thread/INFO]: Enzyker issued server command: /worldborder set 200
+[05:26:33] [Server thread/INFO]: [Enzyker: Set the world border to 200.0 block(s) wide]
