@@ -143,6 +143,14 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-01-04 04:18:35 +0000",
+      "minecraft:nether_wastes": "2025-01-04 04:17:54 +0000",
+      "minecraft:soul_sand_valley": "2025-01-04 04:15:09 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_axe": "2025-01-04 03:38:37 +0000"
@@ -164,6 +172,12 @@
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2025-01-04 03:17:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-01-04 04:15:08 +0000"
     },
     "done": true
   },
@@ -254,6 +268,12 @@
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2025-01-04 03:12:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-01-04 04:15:08 +0000"
     },
     "done": true
   },
@@ -703,6 +723,12 @@
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-01-04 03:17:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-01-04 04:15:09 +0000"
     },
     "done": true
   },

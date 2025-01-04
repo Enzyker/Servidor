@@ -133,6 +133,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-01-04 04:18:14 +0000",
+      "minecraft:nether_wastes": "2025-01-04 04:17:01 +0000",
       "minecraft:soul_sand_valley": "2025-01-04 04:15:09 +0000"
     },
     "done": false
@@ -251,6 +253,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-01-04 04:20:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2025-01-04 03:49:19 +0000"
@@ -345,6 +353,8 @@
     "criteria": {
       "minecraft:skeleton": "2025-01-04 04:12:46 +0000",
       "minecraft:piglin_brute": "2025-01-04 03:52:50 +0000",
+      "minecraft:zombified_piglin": "2025-01-04 04:16:42 +0000",
+      "minecraft:wither_skeleton": "2025-01-04 04:15:33 +0000",
       "minecraft:zombie": "2025-01-04 03:57:18 +0000"
     },
     "done": false
@@ -458,6 +468,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-01-04 04:20:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-01-04 04:12:55 +0000"
@@ -557,6 +573,12 @@
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2025-01-04 04:15:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-01-04 04:23:19 +0000"
     },
     "done": true
   },
